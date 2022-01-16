@@ -34,6 +34,9 @@
 }
 
 html {
+  background: url(https://static.playoverwatch.com/img/crystal-candy-bg-top-e64823cff8.jpg) no-repeat top,url(https://static.playoverwatch.com/img/crystal-candy-bg-bottom-00cdaf6844.jpg) no-repeat bottom;
+  background-color: rgba(0, 0, 0, 0);
+  background-color: #f6e9f0;
   -webkit-font-smoothing: antialiased;
   font-family: "Helvetica Neue", sans-serif;
   font-size: 62.5%;
