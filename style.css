@@ -44,7 +44,10 @@ html {
 
 body {
   font-size: 1.6rem; /* 18px */
-  color: #324047
+  color: #324047;
+  line-height: 60px;
+  letter-spacing: 1px;
+  font-size: 54px;
 }
 
 html,
